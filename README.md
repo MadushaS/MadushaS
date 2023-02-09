@@ -2,7 +2,7 @@
 
 [![@madusha's Holopin board](https://holopin.me/madusha)](https://holopin.io/@madusha)
 
-- 🌱 I’m currently learning Svelte and Typescript
+- 🌱 I’m currently learning Flask and NLP
 - 📫 How to reach me: https://about.me/madushasandaruwan
 - 😄 Pronouns: he/him
 

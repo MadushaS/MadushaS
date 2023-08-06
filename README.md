@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning Flask and NLP
 - 📫 How to reach me: https://about.me/madushasandaruwan
-- 😄 Pronouns: he/him
 
 ![Overview Card](https://raw.githubusercontent.com/MadushaS/gitstat/master/generated/overview.svg#gh-dark-mode-only)
 ![Overview Card](https://raw.githubusercontent.com/MadushaS/gitstat/master/generated/overview.svg#gh-light-mode-only)

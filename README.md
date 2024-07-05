@@ -15,7 +15,7 @@ I'm Madusha Sandaruwan, a research student and passionate developer from Colombo
 #### How to Reach Me
 
 - 🌐 **Website:** [madusha.dev](https://madusha.dev)
-- 💌 **Email:** [contact@madusha.dev](mailto:hello@madusha.dev)
+- 💌 **Email:** [hello@madusha.dev](mailto:hello@madusha.dev)
 - 💼 **LinkedIn:** [Madusha Sandaruwan](https://www.linkedin.com/in/madushasandaruwan/)
 
 #### GitHub Stats

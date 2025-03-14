@@ -20,10 +20,10 @@ I'm Madusha Sandaruwan, a research student and passionate developer from Colombo
 
 #### GitHub Stats
 
-![Overview Card - Dark Mode](https://raw.githubusercontent.com/MadushaS/gitstat/master/generated/overview.svg#gh-dark-mode-only)
-![Overview Card - Light Mode](https://raw.githubusercontent.com/MadushaS/gitstat/master/generated/overview.svg#gh-light-mode-only)
-![Stats Card - Dark Mode](https://raw.githubusercontent.com/MadushaS/gitstat/master/generated/languages.svg#gh-dark-mode-only)
-![Stats Card - Light Mode](https://raw.githubusercontent.com/MadushaS/gitstat/master/generated/languages.svg#gh-light-mode-only)
+![Overview Card - Dark Mode](https://raw.githubusercontent.com/MadushaS/ghstats/master/generated/overview.svg#gh-dark-mode-only)
+![Overview Card - Light Mode](https://raw.githubusercontent.com/MadushaS/ghstats/master/generated/overview.svg#gh-light-mode-only)
+![Stats Card - Dark Mode](https://raw.githubusercontent.com/MadushaS/ghstats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats Card - Light Mode](https://raw.githubusercontent.com/MadushaS/ghstats/master/generated/languages.svg#gh-light-mode-only)
 
 #### Let's Connect
 
